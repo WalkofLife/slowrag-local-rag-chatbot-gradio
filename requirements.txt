@@ -1,0 +1,6 @@
+gradio
+pydantic
+langchain
+langchain-community
+chromadb
+pypdf
